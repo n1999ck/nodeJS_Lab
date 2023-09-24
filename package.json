@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_lab",
+  "version": "1.0.0",
+  "description": "For server-side programming class!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1999ck/nodeJS_Lab.git"
+  },
+  "author": "Nick Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1999ck/nodeJS_Lab/issues"
+  },
+  "homepage": "https://github.com/n1999ck/nodeJS_Lab#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
